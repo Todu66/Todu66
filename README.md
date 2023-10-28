@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giga</h1>
 <h3 align="center">A passionate ReactJS developer from Georgia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=todu66" alt="todu66" /></a> </p>
-
 - 🌱 I’m currently learning **TypeScirpt**
 
 - 💬 Ask me about **React,JavaScript**
@@ -20,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=todu66&show_icons=true&title_color=d65489&text_color=ffffff&bg_color=292735&hide_border=true&locale=en&layout=compact" alt="todu66" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=todu66&show_icons=true&title_color=d24c83&text_color=f6f4f4&bg_color=292735&hide_border=true&locale=en" alt="todu66" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=todu66&theme=dark" alt="todu66" /></p>
